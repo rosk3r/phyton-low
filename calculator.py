@@ -11,10 +11,10 @@ elif action == '-':
 elif action == '/':
     print("=" + str(number1 / number2) + "\n")
 elif action == '*':
-     print("=" + str(number1 * number2) + "\n")
+    print("=" + str(number1 * number2) + "\n")
 elif action == '%':
-     print("=" + str(number1 % number2) + "\n")
+    print("=" + str(number1 % number2) + "\n")
 elif action == '^':
-     print("=" + str(number1 ** number2) + "\n")
+    print("=" + str(number1 ** number2) + "\n")
 else:
-      print("error, pleas try again")
+    print("error, pleas try again")
